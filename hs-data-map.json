@@ -1,0 +1,61 @@
+eqfeed_callback({"type":"FeatureCollection","features":[{
+                    "type":"Feature",
+                    "properties":{
+                        "place":"","description":"",
+                        "time":"2021-10-25 17:37:39","url":"",
+                        "status":"PLANNING","ids":"1b6453892473a467d07372d45eb05abc2031647a",
+                        "farm_types":"","farm_sub_types":""
+                    },
+                    "geometry":{
+                        "coordinates":[]
+                    },
+                    "id":"4"
+                }, {
+                    "type":"Feature",
+                    "properties":{
+                        "place":"First Point","description":"first point",
+                        "time":"2021-10-05 12:01:00","url":"bronx",
+                        "status":"PLANNING","ids":"e0f5e2daa33aeeb64e094a7ffc4ec7292b4be080b1ca0d2354ef11e105df43b6",
+                        "farm_types":"permaculture,dryland","farm_sub_types":"chicken,goat,homestead,herb"
+                    },
+                    "geometry":{
+                        "coordinates":[98.7772,16.4441]
+                    },
+                    "id":"10"
+                }, {
+                    "type":"Feature",
+                    "properties":{
+                        "place":"Second Point","description":"Second Point",
+                        "time":"2020-12-01 06:59:00","url":"testurl3",
+                        "status":"BUILDING","ids":"268f8d64a639f6512c5b510a8ae304cfff97ef2844816548011b983727f593d1",
+                        "farm_types":"aquaculture,permaculture,organic farm,ranch","farm_sub_types":"chicken,goat,duck,wood,fish,hugelkultur,homestead,herb,solar,forest garden,fungi,pig"
+                    },
+                    "geometry":{
+                        "coordinates":[98.9997,15.6545]
+                    },
+                    "id":"3"
+                }, {
+                    "type":"Feature",
+                    "properties":{
+                        "place":"Third Point","description":"Third Point",
+                        "time":"2021-10-08 18:19:00","url":"hs10559189",
+                        "status":"BUILDING","ids":"59597f29c54715033e93327e5b0ed3bd48e0f4d6b47a968e73081279d97224cf",
+                        "farm_types":"apiary,aquaculture,permaculture,commercial farm,cooperative farm,dairy farm,dryland,flower farm,hay farm,micro farm,orchard,organic farm,poultry farm,ranch,rice farm,urban farm,vineyard","farm_sub_types":"cattle,chicken,sheep,goat,duck,wood,fish,hugelkultur,homestead,herb,bee,rabbit,solar,forest garden,fungi,pig"
+                    },
+                    "geometry":{
+                        "coordinates":[99.366,15.627]
+                    },
+                    "id":"2"
+                }, {
+                    "type":"Feature",
+                    "properties":{
+                        "place":"Fourth Point","description":"Fourth Point",
+                        "time":"2021-12-27 12:27:00","url":"fourthPoint",
+                        "status":"PLANNING","ids":"63e85fda28fb426d913b1deeb0ef3cfe9d3856239630755dfba3ddbfee4c2cf5",
+                        "farm_types":"permaculture,orchard,organic farm,poultry farm,ranch","farm_sub_types":"chicken,duck,wood,fish,hugelkultur,homestead,herb,solar,forest garden,fungi"
+                    },
+                    "geometry":{
+                        "coordinates":[99.9152,15.6519]
+                    },
+                    "id":"11"
+                }]});
